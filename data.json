@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "image_food_datum": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjs-a_WpvraAhVGdt8KHXrXBSEQjRx6BAgBEAU&url=http%3A%2F%2Fwww.stylecraze.com%2Farticles%2Fpros-and-cons-of-eating-organic-foods%2F&psig=AOvVaw3E3Gy_PieRcurcyAZUXUP7&ust=1526012756580947",
+      "text_store_name_datum": "Kauser Sarker",
+      "text_cuisine_tags_datum": "asian,lunch special",
+      "text_delivery_time_datum": 10
+    },
+    {
+      "image_food_datum": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjs-a_WpvraAhVGdt8KHXrXBSEQjRx6BAgBEAU&url=http%3A%2F%2Fwww.stylecraze.com%2Farticles%2Fpros-and-cons-of-eating-organic-foods%2F&psig=AOvVaw3E3Gy_PieRcurcyAZUXUP7&ust=1526012756580947",
+      "type": "ime",
+      "text_store_name_datum": "Shariful Islam",
+      "text_cuisine_tags_datum": "asian,lunch special",
+      "text_delivery_time_datum": 25
+    },
+    {
+      "image_food_datum": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjs-a_WpvraAhVGdt8KHXrXBSEQjRx6BAgBEAU&url=http%3A%2F%2Fwww.stylecraze.com%2Farticles%2Fpros-and-cons-of-eating-organic-foods%2F&psig=AOvVaw3E3Gy_PieRcurcyAZUXUP7&ust=1526012756580947",
+      "text_store_name_datum": "Mahfuz Rahman",
+      "text_cuisine_tags_datum": "asian,lunch special",
+      "text_delivery_time_datum": 35
+    },
+    {
+      "image_food_datum": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjs-a_WpvraAhVGdt8KHXrXBSEQjRx6BAgBEAU&url=http%3A%2F%2Fwww.stylecraze.com%2Farticles%2Fpros-and-cons-of-eating-organic-foods%2F&psig=AOvVaw3E3Gy_PieRcurcyAZUXUP7&ust=1526012756580947",
+      "text_store_name_datum": "Rinku Arnob",
+      "text_cuisine_tags_datum": "asian,lunch special",
+      "text_delivery_time_datum": 40
+    }
+  ],
+  "status": 2000,
+  "paginator": {
+    "total": 1,
+    "per_page": 10,
+    "limit": 5
+  }
+}
