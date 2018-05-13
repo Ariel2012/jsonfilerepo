@@ -1,26 +1,26 @@
 {
   "data": [
     {
-      "image_food_datum": "https://github.com/Ariel2012/jsonfilerepo/blob/master/food.jpg",
+      "image_food_datum": "https://i.imgur.com/tGbaZCY.jpg",
       "text_store_name_datum": "Kauser Sarker",
       "text_cuisine_tags_datum": "asian,lunch special",
       "text_delivery_time_datum": 10
     },
     {
-      "image_food_datum": "https://github.com/Ariel2012/jsonfilerepo/blob/master/food.jpg",
+      "image_food_datum": "https://i.imgur.com/tGbaZCY.jpg",
       "type": "ime",
       "text_store_name_datum": "Shariful Islam",
       "text_cuisine_tags_datum": "asian,lunch special",
       "text_delivery_time_datum": 25
     },
     {
-      "image_food_datum": "https://github.com/Ariel2012/jsonfilerepo/blob/master/food.jpg",
+      "image_food_datum": "https://i.imgur.com/tGbaZCY.jpg",
       "text_store_name_datum": "Mahfuz Rahman",
       "text_cuisine_tags_datum": "asian,lunch special",
       "text_delivery_time_datum": 35
     },
     {
-      "image_food_datum": "https://github.com/Ariel2012/jsonfilerepo/blob/master/food.jpg",
+      "image_food_datum": "https://i.imgur.com/tGbaZCY.jpg",
       "text_store_name_datum": "Rinku Arnob",
       "text_cuisine_tags_datum": "asian,lunch special",
       "text_delivery_time_datum": 40
